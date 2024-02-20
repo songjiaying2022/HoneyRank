@@ -1,2 +1,2 @@
 # HoneyRank
-Data for the paper "HoneyRank: A SCTB-based approach to discovering missed honeypots in Ethereum"
+HoneyRank: Discovering Potential Ethereum Contract Honeypots Based on Transaction Networks
