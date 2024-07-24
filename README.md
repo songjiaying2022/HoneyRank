@@ -1,2 +1,2 @@
 # HoneyRank
-HoneyRank: Discovering Potential Ethereum Contract Honeypots Based on Transaction Networks
+HoneyRank: A Low-cost Discovering Method of 0-day Ethereum Smart Contract Honeypots
